@@ -1,0 +1,1 @@
+Our artifact packs for [Startup Studio](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#jan-31-introduction), [Product Management](https://github.com/cornelltech/product-management) and Leadership in the Studio will go here.
