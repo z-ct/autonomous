@@ -12,7 +12,7 @@ Each side represents its own best interest, and we achieve a trustworthy, negoti
 
 # The team
 
-- Moises Baly | [@mses-bly](@https://github.com/mses-bly) | Cornell Tech MCS
+- Moises Baly | [@mses-bly](https://github.com/mses-bly) | Cornell Tech MCS
 - Gregory Peckar | [@gpekar](https://github.com//gpekar) | Cornell Tech ORIE
 - [Johanan Ottensooser](https://www.linkedin.com/in/jottensooser) | [@oatsandsugar](https://github.com/oatsandsugar) | [Cornell Tech LLM](https://tech.cornell.edu/programs/masters-programs/master-of-laws-llm)
 - Pablo Watfi | [@pablowatfi](https://github.com/pablowatfi) | Cornell Tech ORIE
