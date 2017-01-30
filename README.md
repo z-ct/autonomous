@@ -1,14 +1,15 @@
 # True autonomous transaction
 
-Our team believes that, much like the majority of information is now machine rather than human generated, in the near future, the majority of transactions will be machine, rather than human generated.
+In the last two years, machines generate more information than humans. We believe that, in the near future, the same will apply to transactions.
 
-This can't work unless we trust our IOT devices (our autonomous cars, our smart fridges, our smart electricity meters) to transact in our best interests.
+This can't work unless we **trust** our devices (our autonomous cars, our smart fridges, our smart electricity meters) to transact in our best interests.
 
-Therefore, we replace the existing model of autonomous transactions (a vendor suggesting a price, and accepting on our behalf in accordance with rules we have predefined) with a pure agency based model:
+To do that, we have to replace the existing transaction model that gives all the power to the seller, to one based on agency:
 
 *The vendor's side of the transaction is represented by a vendor algorithm, the purchaser's side of the transaction is represented by a seller algorithm.*
 
 Each side represents its own best interest, and we achieve a trustworthy, negotiated endpoint: a platform on which to build the future of autonomous transactions.
+
 
 # The team
 
