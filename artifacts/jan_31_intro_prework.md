@@ -1,4 +1,4 @@
-# Startup studio: artifact pack 1
+# Startup studio: January 31 prework checklist
 
 - [ ] Come to class prepared to pitch as a team
 - [x] Add your product narrative to the homework doc (see Homework link in list of Studio Links)
