@@ -13,7 +13,9 @@ Each side represents its own best interest, and we achieve a trustworthy, negoti
 
 # Three sentence pitch.
 By 2020, our *things* will buy more goods than we will.
+
 To do this, we have **trust** our devices with our money - and we won't trust a device that only represents the seller's interets.
+
 To build this trust, we give the buyer and seller their own algorithms representing their own interests, giving us a trustworthy, negotiated transaction: and a platform on which to build the future of autonomous transactions.
 
 Z-CT. Boom.
