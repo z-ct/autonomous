@@ -5,11 +5,11 @@ This can't work unless we **trust** our devices with our money.
 
 To build this trust, we have to replace the existing transaction model that gives all the power to the seller. We've got to automate not just the transaction, but the negotiation.
 
-That's where Z-CT fits in. In our system: 
+That's where Z-CT fits in.
 
-*The seller's side of the transaction is represented by a seller algorithm, the buyer's side of the transaction is represented by a buyer algorithm.*
+*We will build a marketplace where your interests are represented by optimizing for your happiness based on cost and value. Our network will allow your devices to negotiate based on algorithmically guaranteed fairness and trust.*
 
-Each side represents its own best interest, and we achieve a trustworthy, negotiated endpoint: and a platform on which to build the future of autonomous transactions.
+Truly automated transactions will be possible since you can trust your devices to be acting solely in your best interest.
 
 # Three sentence pitch.
 By 2020, our *things* will buy more goods than we will.
