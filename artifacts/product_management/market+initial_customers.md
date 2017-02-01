@@ -34,7 +34,7 @@ Since our system is meant to be industry agnostic (at least, in the long term vi
 | Total Projected Payments Revenue by 2020 | *math* | ~ $ 2 trillion |
 | Share of transactions automated by 2020 | [Fujitsu](https://phys.org/news/2015-12-percent-retail-automated.html) | 50% |
 | TAM | --> | $ 1 trillion |
-| Fee chargeable to card-holders per transaction \*\* | *guestimate* | 10% |
+| Fee chargeable to payments providers per transaction \*\* | *guestimate* | 10% |
 | SAM | *math* | $ 100 billion | 
 | Penetration | *guestimate* of our penetration \* | 20% |
 | **SOM** | *math* | **$ 20 billion** | 
