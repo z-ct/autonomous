@@ -27,7 +27,7 @@ Since our system is meant to be industry agnostic (at least, in the long term vi
 
 \* This is derived from various sources, we should try find more reliable numbers.
 
-**Total Projected Payments Revenues 2020** = Flat fees ($ 68.6 bn) + Percentage fees ($1995 bn) = ** ~ $2 trillion **
+**Total Projected Payments Revenues 2020** = Flat fees ($ 68.6 bn) + Percentage fees ($1995 bn) = **~ $2 trillion**
 
 | What's our share? | | |
 | --- | --- | ---: |
