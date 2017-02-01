@@ -1,6 +1,6 @@
 # Market Sizing
 
-> TL;DR - SOM of $20 Billion in 2020.
+> TL;DR - SOM of **$20 Billion** by 2020.
 
 There are a few approaches we can take with market sizing, we consider two: 
 - an analysis the market size of each industry that we hope to automate the transactions in;
@@ -16,6 +16,7 @@ Since our system is meant to be industry agnostic (at least, in the long term vi
 | Projected flat transaction fees chargeable worldwide in 2020 | *math* | $68.6 Bn |
 
 \*this may be useful if we choose to have a flat, per transaction fee, but we will analyse the potential business plans at a later date.
+
 \*\*note, this is a US sum, we should average across the world.
 
 | Percentage fees | source | numbers |
@@ -39,6 +40,7 @@ Since our system is meant to be industry agnostic (at least, in the long term vi
 | **SOM** | *math* | **$ 20 billion** | 
 
 \* we should derive this from the industries we plan on entering and their shares of the market.
+
 \*\* this can change with our market plan, here it assumes we charge the payment providers for organising the transaction, which is useful for its simplicity, but not likely to be the final business plan.
 
 # Initial customers
