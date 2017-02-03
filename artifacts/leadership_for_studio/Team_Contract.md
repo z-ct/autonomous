@@ -26,7 +26,7 @@ Johanan - LLM
 
 Team Operating Principles & Norms:
 -Members are expected to be active on slack
--There will be a weekly meeting on Fridays at 11:15AM
+-There will be a weekly meeting on Fridays at 11:15AM after conversations in the stuio. This will be a 15-30 minute meeting to check in and assign tasks
 Please add more/verify date/time of weekly meeting
 
 Evaluation & Revision:
