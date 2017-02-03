@@ -1,8 +1,8 @@
 Names & Emails:
-Gregory Pekar - gjp59@cornell.edu
-Moises Baly - mjb548@cornell.edu
-Johanan Ottensooser - jco82@cornell.edu
-Pablo Watfi - pw426@cornell.edu
+- Gregory Pekar - gjp59@cornell.edu
+- Moises Baly - mjb548@cornell.edu
+- Johanan Ottensooser - jco82@cornell.edu
+- Pablo Watfi - pw426@cornell.edu
 
 Mission Statement:
 Creating a trustworthy autonomous transaction network that benefits both buyers and sellers fairly.
