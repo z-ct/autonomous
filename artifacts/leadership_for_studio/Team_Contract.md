@@ -8,10 +8,10 @@ Mission Statement:
 Creating a trustworthy autonomous transaction network that benefits both buyers and sellers fairly.
 
 Team Goals:
--create a narrative complete product
--generate interest in the topic among our peers and investors
--learn how to effectively pitch a new company/product
--make lifetime friends/colleagues to exploit later in life
+- create a narrative complete product
+- generate interest in the topic among our peers and investors
+- learn how to effectively pitch a new company/product
+- make lifetime friends/colleagues to exploit later in life
 
 Role Assignment and Expertise:
 Roles:
