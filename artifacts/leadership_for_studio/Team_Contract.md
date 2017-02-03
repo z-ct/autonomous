@@ -12,13 +12,15 @@ Team Goals:
 - generate interest in the topic among our peers and investors
 - learn how to effectively pitch a new company/product
 - make lifetime friends/colleagues to exploit later in life
+- impart our expertise on eachother
+- Come up with a simple way to express an intensely complex idea.
 
 Role Assignment and Expertise:
 
 Roles:
-Software Development - Moises (lead), Greg/Pablo will assist
-Optimization methods - Greg/Pablo (co-leads)
-Product Development - Johanan (lead), Greg/Pablo/Moises will assist
+- Software Development - Moises (lead), Greg/Pablo will assist
+- Optimization methods - Greg/Pablo (co-leads)
+- Product Development - Johanan (lead), Greg/Pablo/Moises will assist
 
 Expertise:
 - Greg - ORIE
@@ -37,3 +39,5 @@ Evaluation & Revision:
 - Work with the knowledge of the other parties
 - Be direct with criticism and don't take criticisms personally
 - If things get heated. Stop. Have a beer. Continue.
+- On difference of opinion, vote. On deadlock, iterate both designs, then vote. This will make concrete the different perspectives.
+- Try argue other perspective.
