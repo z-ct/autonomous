@@ -1,4 +1,5 @@
 # Dashboard Contents
+*This is a rich list, certain datapoints from it will be extracted for the visual dashboard*
 
 ## Sales Data
 
