@@ -11,7 +11,7 @@ Team Goals:
 - create a narrative complete product
 - generate interest in the topic among our peers and investors
 - learn how to effectively pitch a new company/product
-- make lifetime friends/colleagues to exploit later in life
+- make lifetime friends/colleagues to leverage later in life
 - impart our expertise on eachother
 - Come up with a simple way to express an intensely complex idea.
 
@@ -31,8 +31,6 @@ Expertise:
 Team Operating Principles & Norms:
 - Members are expected to be active on slack
 - There will be a weekly meeting on Fridays at 11:15AM after conversations in the stuio. This will be a 15-30 minute meeting to check in and assign tasks
-
-Please add more/verify date/time of weekly meeting
 
 Evaluation & Revision:
 - Open communication
