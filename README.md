@@ -15,7 +15,7 @@ Each side represents its own best interest, and we achieve a trustworthy, negoti
 # The team
 
 - [Moises Baly](https://www.linkedin.com/in/moises-baly-1a758362) | [@mses-bly](https://github.com/mses-bly) | [Cornell Tech CS](https://tech.cornell.edu/programs/masters-programs/master-in-computer-science)
-- Gregory Pekar | [@gpekar](https://github.com//gpekar) | [Cornell Tech ORIE](https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering)
+- [Gregory Pekar](https://www.linkedin.com/in/gpekar) | [@gpekar](https://github.com//gpekar) | [Cornell Tech ORIE](https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering)
 - [Johanan Ottensooser](https://www.linkedin.com/in/jottensooser) | [@oatsandsugar](https://github.com/oatsandsugar) | [Cornell Tech LLM](https://tech.cornell.edu/programs/masters-programs/master-of-laws-llm) 
 - Pablo Watfi | [@pablowatfi](https://github.com/pablowatfi) | [Cornell Tech ORIE](https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering)
 
