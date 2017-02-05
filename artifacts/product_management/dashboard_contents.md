@@ -21,7 +21,7 @@
 | Volume of transactions | $ | N/A | Daily | Daily (during growth phase) |  $1,502,601 transacted today |
 | Descriptive Statistics of  transaction amount | $ Int | Mean, Median, Mode, Std Dev | Daily | Daily (during growth phase) |  Transaction amount: mean = 15, median = 17, mode 20, std dev = 3 |
 | Descriptive statistics of transactions per device | Int | Mean, Median, Mode, Std Dev | Daily | Daily (during growth period | Trns / User: mean = 3, median = 3, mode = 1, std dev = 0.8 |
-| Descriptive statistics of budget per user | Mean, Median, Mode, Std Dev | Daily | Daily (during growth period | Budget / User: mean = 300, median = 312, mode = 190, std dev = 80 |
+| Descriptive statistics of budget per user |$| Mean, Median, Mode, Std Dev | Daily | Daily (during growth period | Budget / User: mean = 300, median = 312, mode = 190, std dev = 80 |
 | Number of seller nodes | Int | N/A | Daily | Daily | 3,000 seller nodes |
 | Descriptive statistics of transactions / seller | Int | Mean, Median, Mode, Std Dev | Daily | Daily (during growth period | Trns / Seller: mean = 3, median = 3, mode = 1, std dev = 0.8 |
 
@@ -29,7 +29,8 @@
 | What | Unit | Formula | Window | Baseline | Example |
 | ---- | ---- | ------- | ------ | -------- | ------- |
 | Descriptive statistics of number of bids per transaction (split by industry) | Int | Mean, Median, Mode, Std Dev | Daily | Daily (during growth period | Bids / Transaction: mean = 3, median = 3, mode = 1, std dev = 0.8 |
-| % transactions disputed | Transactions disputed / transactions | Weekly | Quarterly | 0.8 % of transactions were disputed |
+| % transactions disputed |%| Transactions disputed / transactions | Weekly | Quarterly | 0.8 % of transactions were disputed |
+| % of users w/ transactions disputed |%| Users w/ transactions disputed / Tot Users (with >0 transactions) | Weekly | Quarterly | 0.2 % of users had transactions disputed |
 | Pie chart - type of auction triggered | % | Auction type / total number of auctions | Weekly | Quarterly | 14% of auctions were second price auctions |
 | Pie chart - industry | % | Industry / total number of auctions | Weekly | Quarterly | 24% of transactions were auto-related |
 
