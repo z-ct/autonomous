@@ -10,6 +10,10 @@
 | Users | Int | N/A | Weekly | Quarterly | There are 1 million users on the network |
 | Devices per user | Int | Average (devices / user) | Weekly | Quarterly | The average user has 2 devices | 
 | Median time until second device | Time | Median (time until second device) | Weekly | Quarterly | Median user with a second device bought it 8 weeks after the first device | 
+| Money saved | $ | N / A | Monthly | Month - 1 | How much money did your car saved last month |
+| Transactions per vendor | # | aggregate | Weekly | Month - 1 | How many transactions did you took part of as a vendor |
+
+
 
 ## Revenue Data
 
@@ -32,7 +36,10 @@
 | % transactions disputed |%| Transactions disputed / transactions | Weekly | Quarterly | 0.8 % of transactions were disputed |
 | % of users w/ transactions disputed |%| Users w/ transactions disputed / Tot Users (with >0 transactions) | Weekly | Quarterly | 0.2 % of users had transactions disputed |
 | Pie chart - type of auction triggered | % | Auction type / total number of auctions | Weekly | Quarterly | 14% of auctions were second price auctions |
-| Pie chart - industry | % | Industry / total number of auctions | Weekly | Quarterly | 24% of transactions were auto-related |
+| Pie cha1rt - industry | % | Industry / total number of auctions | Weekly | Quarterly | 24% of transactions were auto-related |
+| Perception of fairness | score | N / A | Weekly | Quarterly | 4.8 |
+| Perception of value | score | N / A | Weekly | Quarterly | 4.3 |
+
 
 ## Extract of data on first adopters
 All of the same data, but for the subset of users whose first device was an autonomous vehicle.
