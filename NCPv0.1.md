@@ -9,7 +9,11 @@ Example use cases:
 - negotiation for petrol
 - car pooling
 - decision making by vehicle whether to park
-- insurance markplace
+- insurance marketplace
 - financial services
 
 Pick 2, express.
+override for emergency vehicles
+bribery for passing
+
+We definitely want the emergency vehicles. It will look damn sexy when some user is passing another user and then it is overrided by the emergency vehicle.
