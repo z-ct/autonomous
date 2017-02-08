@@ -17,3 +17,6 @@ override for emergency vehicles
 bribery for passing
 
 We definitely want the emergency vehicles. It will look damn sexy when some user is passing another user and then it is overrided by the emergency vehicle.
+
+
+"When people go on standby for airports to make money from airlines"
