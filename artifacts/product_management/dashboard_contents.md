@@ -1,3 +1,8 @@
+# Version 1 of Dashboard
+*We intended to show flow as the primary detail, with subsidiary columns being components to revenue, components to trust, and components to market health (from left to right respectively).*
+![Dashboard v1](https://github.com/z-ct/autonomous/blob/master/artifacts/product_management/Dashboard%20v1.jpg "Dashboard v1")
+
+
 # Dashboard Contents
 *This is a rich list, certain datapoints from it will be extracted for the visual dashboard*
 
