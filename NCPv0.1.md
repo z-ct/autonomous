@@ -30,7 +30,13 @@ That's where Z-CT fits in. You pay us the cost of the cheapest ticket you see to
 
 ## Car use case - johanan
 
-## other use case 1 - moises
+## Drones use case 
 
-## other use case 2 - Pablo
+Suppose drone deliveries are a fact. 
+
+## Fridge use case
+
+You own a smart fridge that keeps track of everything you buy. It also knows when are run out of rapsberries whichyou usually eat on Friday nights. It is Thrusday and you forgot to buy them, but Z-CT never forgets. We already did that purchase for you, buying the same rapsberry you usually consume at the best price in the market. Now you will have them in your fridge as every Friday night.
+
+smart fridge: http://www.samsung.com/us/explore/family-hub-refrigerator/ use the pictures and ML to detect what and when you consume your groceries. When deciding the purchase the fridge will send the user a message, so that the user don't buy the same product again.
 
