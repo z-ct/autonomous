@@ -32,11 +32,11 @@ That's where Z-CT fits in. You pay us the cost of the cheapest ticket you see to
 
 ## Drones use case 
 
-Suppose drone deliveries are a fact. 
+Uber for drones: In a few years from now, drone delivery will be a fact. Every major delivery company will own a fleet of drones to deliver their products. Also users and small companies will have drones as well. All of these UAV will be communicating with themselves, and they will be aware of all the routes and timing of their trips. In that scenario, idle drones will be able to be rented to do deliveries for other users or companies. Z-CT will be the platform for this negotiation benefiting both parties. The drone owner will be benefitted making money of his idle drone, and the renter will pay a low price to deliver his package which will never be less than the costs the drone owner will have to pay.
 
 ## Fridge use case
 
-You own a smart fridge that keeps track of everything you buy. It also knows when are run out of rapsberries whichyou usually eat on Friday nights. It is Thrusday and you forgot to buy them, but Z-CT never forgets. We already did that purchase for you, buying the same rapsberry you usually consume at the best price in the market. Now you will have them in your fridge as every Friday night.
+You own a smart fridge that keeps track of everything you buy. It also knows when are run out of rapsberries whichyou usually eat on Friday nights. It is Thrusday and you forgot to buy them, but Z-CT never forgets. We already did that purchase for you, buying the same rapsberry you usually consume **at the best price available**. Now you will have them in your fridge as every Friday night.
 
 smart fridge: http://www.samsung.com/us/explore/family-hub-refrigerator/ use the pictures and ML to detect what and when you consume your groceries. When deciding the purchase the fridge will send the user a message, so that the user don't buy the same product again.
 
