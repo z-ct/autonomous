@@ -12,10 +12,10 @@ That's where Z-CT fits in.
 Truly automated transactions will be possible since you can trust your devices to be acting solely in your best interest.
 
 # Three sentence pitch.
-By 2020, our *things* will buy more goods than we will.
+By 2020, our *things* will buy more goods than we will; our cars will bribe other cars to get out of our way and our fridges will surprise us with raspberries.
 
-To do this, we have **trust** our devices with our money - and we won't trust a device that only represents the seller's interets.
+But this can't work unless we **trust** our devices with our money.
 
-To build this trust, we give the buyer and seller their own algorithms representing their own interests, giving us a trustworthy, negotiated transaction: and a platform on which to build the future of autonomous transactions.
+To build this trust, we give the parties seperate agents that negotiate on their behalf, resulting in a trustworthy, negotiated transaction.
 
 Z-CT. Boom.
