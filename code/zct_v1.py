@@ -1,5 +1,5 @@
 import numpy as np
-
+import time
 class Car:
     def __init__(self, id, bid, budget):
         self.id = id
@@ -9,18 +9,22 @@ class Car:
 
     def compCar(self, other):
         #self wins
-        print('car id:', self.id, 'car bid:', self.bid)
-        print('car id:', other.id, 'car bid:', other.bid)
+        time.sleep(1)
+        print(' *** car ', self.id, ' and car ', other.id, ' are bidding ***')
+        print('car ', self.id, ' bids ', self.bid)
+        print('car ', other.id, 'bids ', other.bid)
         if self.bid > other.bid:
             self.budget -= other.bid
             self.ledger -= other.bid
-            print('car', self.id, 'wins!')
+            print(' ===> car', self.id, 'wins!')
+            print('\n')
             return self
         #other wins
         elif other.bid > self.bid:
             other.budget -= self.bid
             other.ledger -= self.bid
-            print('car', other.id, 'wins!')
+            print(' ===> car', other.id, 'wins!')
+            print('\n')
             return other
 
 
@@ -84,41 +88,38 @@ def runProg(road):
             elif road.road[i-1][0] is None and road.road[i-1][1] is not None:
                 #move winner to the lane up 1 and to the left
                 road.road[i-1][0] = winner
-
         road.printRoad()
-        print('***********')
-
+        print('\n')
+        # print('***********')
     if not leftOpen:
         road.road[0][0] = None
     else:
         road.road[0][1] = None
-    print('end state')
-
-    road.printRoad()
-
-
-
-# testRoad.printRoad()
-print('***********')
-
-
-# runProg(testRoad)
-
-
-
-print(testRoad.road[0][0].id)
-print(testRoad.road[0][0].budget)
-print(testRoad.road[0][0].ledger)
+    # road.printRoad()
 
 def main():
-    testRoad = Road(20, 2)
+    road_length=20
+    testRoad = Road(road_length, 2)
     testRoad.road[0][0] = Car(0, np.random.uniform(low=1.0, high = 10.0), 50)
     counter = 1
-    for i in range(1,20):
+    for i in range(1,road_length):
         testRoad.road[i][0] = Car(counter, np.random.uniform(low=1.0, high = 10.0), 50)
         testRoad.road[i][1] = Car(counter+1, np.random.uniform(low=1.0, high = 10.0), 50)
         counter += 2
+
+    print("Road intial state")
+    print("=================")
+
     testRoad.printRoad()
+
+    print('\n')
+    
+    while(True):
+        runProg(testRoad)
+        time.sleep(2)
+
+
 
 if __name__ == "__main__":
     main()
+
