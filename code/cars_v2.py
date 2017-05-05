@@ -39,9 +39,6 @@ class Car:
             self.budget -= other.bid
             self.ledger -= other.bid
             self.color = 'green'
-            #print(' ===> car', self.id, 'wins!')
-            #print(' ===> car', self.id, 'pays:', other.bid)
-            #print(' ===> car', self.id, 'remaining budget is:', self.budget)
             string = ' ===> car ' + str(self.id) + ' wins!'
             print(colored(string, 'green'))
             string = ' ===> car ' + str(self.id) + ' pays: ' + str(other.bid)
@@ -55,9 +52,6 @@ class Car:
             other.budget -= self.bid
             other.ledger -= self.bid
             other.color = 'green'
-            #print(' ===> car', other.id, 'wins!')
-            #print(' ===> car', other.id, 'pays:', self.bid)
-            #print(' ===> car', other.id, 'remaining budget is:', other.budget)
             string = ' ===> car ' + str(other.id) + ' wins!'
             print(colored(string, 'green'))
             string = ' ===> car ' + str(other.id) + ' pays: ' + str(self.bid)
